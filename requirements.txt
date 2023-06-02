@@ -1,5 +1,5 @@
 anytree
-aria2p
+aria2p1
 asyncio
 beautifulsoup4
 bencode.py
@@ -27,7 +27,7 @@ python-magic
 python-telegram-bot==13.15
 qbittorrent-api
 requests
-speedtest-cli
+
 telegraph
 tenacity
 tgCrypto
